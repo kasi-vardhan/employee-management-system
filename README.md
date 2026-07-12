@@ -401,5 +401,4 @@ This project is licensed under the ISC License.
 - MongoDB for the flexible database
 - Tailwind CSS for the utility-first CSS framework
 - Lucide for beautiful icons
-#   e m p l o y e e - m a n a g e m e n t - s y s t e m  
- 
+#
